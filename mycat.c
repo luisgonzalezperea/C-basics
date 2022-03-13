@@ -6,6 +6,10 @@
 
 #define BUFFER_SIZE 1024
 
+// ------------------------------
+//Program that emulates linux cat
+// ------------------------------
+
 int main(int argc, char *argv[])
 {
 	char buffer[BUFFER_SIZE]; // Buffer
