@@ -1,2 +1,2 @@
 # C-basics
-My first programs in C
+My first C programs using Linux
